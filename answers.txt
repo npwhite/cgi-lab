@@ -1,0 +1,5 @@
+Q1:
+Q2: "QUERY_STRING"
+Q3: HTTP_USER_AGENT environment variable
+Q4: Comes as field storage, not an environment variable
+Q5: 
