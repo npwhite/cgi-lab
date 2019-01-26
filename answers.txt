@@ -1,5 +1,7 @@
-Q1:
+Q1: os.environ.items()
 Q2: "QUERY_STRING"
 Q3: HTTP_USER_AGENT environment variable
 Q4: Comes as field storage, not an environment variable
-Q5: 
+Q5: Set-Cookie: key=value
+Q6: os.environ.get("HTTP_COOKIE")
+Q7: storing useful client data on the client's side
